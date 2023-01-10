@@ -1,1 +1,2 @@
-# Netflix-Visualization
+# VisualAnalyticsNetflixDataAnalysis
+VisualAnalytics Netflix Data Analysis
